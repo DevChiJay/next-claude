@@ -1,5 +1,9 @@
 # CLAUDE.md
 
+<!-- Use context7 mcp servers for finding the updated docs for libraries -->
+
+Use the information provided in @SPEC.md for this project
+
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Project Overview
