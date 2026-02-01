@@ -1,5 +1,10 @@
-Use plan mode
+
+Use plan mode (shit + tab)
+Use search web.
 
 Use subagents to avoid polution of context window and for efficient work
+Give skill to project specific to add more tight context.
 
-Use search web.
+Add subagents, and or skill to root work directory so it works globally
+
+-- You can also inject more prompt while it's working
