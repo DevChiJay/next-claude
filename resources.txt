@@ -1,0 +1,5 @@
+Use plan mode
+
+Use subagents to avoid polution of context window and for efficient work
+
+Use search web.
